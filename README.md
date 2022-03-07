@@ -2,7 +2,7 @@
 
 Comfortable instrument for labeling and cleaning your image dataset.
 
-![](header.png)
+![](demo.gif)
 
 ## Installation
 
